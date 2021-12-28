@@ -5,4 +5,9 @@ This movie recommendation engine was created using Spacy word embeddings and com
 ![](images/tags.png)
 The tags after they've been combined and cleaned. We then compute the dot product between the word embeddings of a movie and the entire dataset's word embeddings followed by a cosine similarity. 
 
-For example, the top 5 similar movies for The Shawshank Redemption returned: 1. Annie Get Your Gun, 2. Kill Me Again, 3. Don Quixote, 4. Snow White, 5. The Best Little Whorehouse in Texas
+For example, the top 5 similar movies for The Shawshank Redemption returned: 
+1. Annie Get Your Gun 
+2. Kill Me Again
+3. Don Quixote
+4. Snow White
+5. The Best Little Whorehouse in Texas
