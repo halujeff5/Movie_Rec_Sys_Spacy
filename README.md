@@ -21,3 +21,6 @@ For example, the top 5 similar movies for The Shawshank Redemption returned:
 3. Don Quixote
 4. Snow White
 5. The Best Little Whorehouse in Texas
+
+Link to project blog for further reading:
+https://jeffreyng-82.medium.com/building-a-movie-recommender-based-on-spacy-word-embeddings-f32f2bdf8912
