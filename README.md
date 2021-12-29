@@ -11,7 +11,7 @@ The tags after they've been combined and cleaned.
 ![](images/tags.png)
 
 The word embeddings were then calculated as follows:
-![](images/word_embeddings.png)
+![](images/word_embedddings.png)
 
 We then compute the dot product between the word embeddings of a movie and the entire dataset's word embeddings followed by a cosine similarity. 
 
