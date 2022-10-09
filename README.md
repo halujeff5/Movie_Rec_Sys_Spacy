@@ -14,11 +14,11 @@ The word embeddings were then calculated as follows:
 We then compute the dot product between the word embeddings of a movie and the entire dataset's word embeddings followed by a cosine similarity. 
 
 For example, the top 5 similar movies for The Shawshank Redemption returned: 
-1. Annie Get Your Gun 
-2. Kill Me Again
-3. Don Quixote
-4. Snow White
-5. The Best Little Whorehouse in Texas
+1. Mumbai Police
+2. The Hunger Games: Mockingjay - Part 2
+3. The Dirt Bike Kid
+4. Windstruck
+5. Subramaniapuram
 
 Link to project blog for further reading:
 https://jeffreyng-82.medium.com/building-a-movie-recommender-based-on-spacy-word-embeddings-f32f2bdf8912
