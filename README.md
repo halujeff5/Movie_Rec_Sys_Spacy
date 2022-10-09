@@ -7,9 +7,6 @@ This movie recommendation engine was created using Spacy word embeddings and com
 The following are the most popular tags given for a movie
 ![](images/most_pop_tags.png)
 
-The tags after they've been combined and cleaned.
-![](images/tags.png)
-
 The word embeddings were then calculated as follows:
 ![](images/word_embedddings.png)
 
