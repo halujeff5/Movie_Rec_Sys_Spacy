@@ -1,4 +1,4 @@
-# Movie_Recommender_Spacy (project not finished)
+# Movie_Recommender_Spacy
 
 ### First_NB.ipynb is the project's main file
 
