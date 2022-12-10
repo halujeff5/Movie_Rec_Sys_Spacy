@@ -22,3 +22,5 @@ For example, the top 5 similar movies for The Shawshank Redemption returned:
 
 Link to project blog for further reading:
 https://jeffreyng-82.medium.com/building-a-movie-recommender-based-on-spacy-word-embeddings-f32f2bdf8912
+
+** Note I added a tfidf model which uses a sparse matrix, and a cosine similarity is calculated and the top 10 movies returned**
