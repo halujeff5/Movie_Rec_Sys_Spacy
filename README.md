@@ -11,7 +11,7 @@ The following are the most popular tags given for a movie
 The word embeddings were then calculated as follows:
 ![](images/word_embedddings.png)
 
-We then compute the dot product between the word embeddings of a movie and the entire dataset's word embeddings followed by a cosine similarity. 
+We then compute the dot product between the word embeddings of a movie and the entire dataset's word embeddings followed by a cosine similarity. The rationale of this computation is that when the dot product is computed using a 300 vector word embedding, it returns a single value where a cosine similarity can be calculated.  
 
 For example, the top 5 similar movies for The Shawshank Redemption returned: 
 1. Mumbai Police
